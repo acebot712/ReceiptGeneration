@@ -1,2 +1,1 @@
-"# ReceiptGeneration" 
-"# ReceiptGeneration" 
+"# ReceiptGeneration"
